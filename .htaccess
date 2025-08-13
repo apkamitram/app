@@ -1,0 +1,18 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/aparnapu/web.mastermindz.in"
+PassengerBaseURI "/"
+PassengerNodejs "/home/aparnapu/nodevenv/web.mastermindz.in/20/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+ RewriteCond %{REQUEST_URI} !^/socket.io/
+ RewriteCond %{REQUEST_URI} !^/backend-*
+    RewriteCond %{REQUEST_URI} !^/public/
+    RewriteRule ^(.*)$ /public/$1 [L,QSA]
+</IfModule>
+<IfModule mod_security.c>
+  SecFilterEngine Off
+  SecFilterScanPOST Off
+</IfModule>

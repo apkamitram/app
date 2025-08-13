@@ -1,0 +1,106 @@
+(node:4132639) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+node:internal/fs/promises:639
+  return new FileHandle(await PromisePrototypeThen(
+                        ^
+
+Error: ENOENT: no such file or directory, open 'credentials/918989484928/creds.json'
+    at async open (node:internal/fs/promises:639:25)
+    at async writeFile (node:internal/fs/promises:1216:14)
+    at async /home/aparnapu/nodevenv/web.mastermindz.in/20/lib/node_modules/@whiskeysockets/baileys/lib/Utils/use-multi-file-auth-state.js:38:17 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'credentials/918989484928/creds.json'
+}
+
+Node.js v20.19.2
+(node:982085) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+(node:727649) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:727824) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+(node:760814) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:760867) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+(node:784690) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+(node:2511050) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+(node:327138) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+node:internal/fs/promises:639
+  return new FileHandle(await PromisePrototypeThen(
+                        ^
+
+Error: ENOENT: no such file or directory, open 'credentials/918869943344/creds.json'
+    at async open (node:internal/fs/promises:639:25)
+    at async writeFile (node:internal/fs/promises:1216:14)
+    at async /home/aparnapu/nodevenv/web.mastermindz.in/20/lib/node_modules/@whiskeysockets/baileys/lib/Utils/use-multi-file-auth-state.js:38:17 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'credentials/918869943344/creds.json'
+}
+
+Node.js v20.19.2
+(node:3279687) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+node:internal/fs/promises:639
+  return new FileHandle(await PromisePrototypeThen(
+                        ^
+
+Error: ENOENT: no such file or directory, open 'credentials/918869943344/creds.json'
+    at async open (node:internal/fs/promises:639:25)
+    at async writeFile (node:internal/fs/promises:1216:14)
+    at async /home/aparnapu/nodevenv/web.mastermindz.in/20/lib/node_modules/@whiskeysockets/baileys/lib/Utils/use-multi-file-auth-state.js:38:17 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'credentials/918869943344/creds.json'
+}
+
+Node.js v20.19.2
+(node:414250) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+(node:2297067) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:1985800) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+Closing open session in favor of incoming prekey bundle
+Closing open session in favor of incoming prekey bundle
+(node:2165097) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+Closing open session in favor of incoming prekey bundle
+(node:1140629) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
+Closing open session in favor of incoming prekey bundle
+Closing open session in favor of incoming prekey bundle
+Closing open session in favor of incoming prekey bundle
+(node:2190218) Warning: Accessing non-existent property 'getPpUrl' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+⚠️ The printQRInTerminal option has been deprecated. You will no longer receive QR codes in the terminal automatically. Please listen to the connection.update event yourself and handle the QR your way. You can remove this message by removing this opttion. This message will be removed in a future version.
